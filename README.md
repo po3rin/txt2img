@@ -1,3 +1,3 @@
 # txt2img
 
-text to img.
+Fill in the image with the letter using Go.
